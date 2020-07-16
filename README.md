@@ -1,3 +1,5 @@
+**Moved to https://github.com/mediafellows/ansible-role-flussonic**
+
 [![Build Status](https://travis-ci.com/mediapeers/ansible-role-flussonic.svg?branch=master)](https://travis-ci.com/mediapeers/ansible-role-flussonic)
 
 # Flussonic Ansible Role
